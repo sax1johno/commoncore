@@ -1,0 +1,24 @@
+{
+  "name": "node-commoncore",
+  "version": "1.0.0",
+  "description": "Utilities for downloading, interacting with, and using the common core state standards.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "assertion-error": "^1.0.1",
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "request": "^2.60.0",
+    "underscore": "^1.8.3",
+    "util": "^0.10.3",
+    "xml2js": "^0.4.9"
+  }
+}
