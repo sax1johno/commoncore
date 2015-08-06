@@ -1,5 +1,5 @@
 {
-  "name": "node-commoncore",
+  "name": "commoncore",
   "version": "1.0.0",
   "description": "Utilities for downloading, interacting with, and using the common core state standards.",
   "main": "lib/index.js",
